@@ -1,12 +1,12 @@
 # Site settings
-title: Our dreaming Cloud
+title: Let's build Utopia!
 email: jannis.huebl@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://www.our-dreaming.cloud" # the base hostname & protocol for your site
+url: "https://www.letsbuildutopia.org" # the base hostname & protocol for your site
 
-twitter_username: "@OurDreamCloud"
-github_username: jannishuebl/our-dreaming-cloud
+twitter_username: "@buildUtopia"
+github_username: jannishuebl/letsbuildutopia
 
 # Build settings
 markdown: kramdown
