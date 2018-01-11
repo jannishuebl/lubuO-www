@@ -1,14 +1,19 @@
-# Creative Theme for Jekyll
+# This repository holds the Landingpage of X
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+## Setup
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+1. Install Docker
+2. Checkout repository
+3. run ```docker-compose up``` inside of the repository folder
+4. In our browser navigate to: [http://localhost:4000](http://localhost::4000)
 
-## To use the Creative Theme template in your project
+## Make Changes
 
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
+1. Create [fork](https://help.github.com/articles/about-forks/)
+2. Make Changes (see [Setup](#setup) for details)
+3. run ```docker-compose run jekyll build```
+4. Create [pullrequest](https://help.github.com/articles/about-pull-requests/) to your upstream repository
+
+
 
